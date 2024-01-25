@@ -1,0 +1,26 @@
+User-agent: Googlebot
+Disallow: 
+User-agent: googlebot-image
+Disallow: 
+User-agent: googlebot-mobile
+Disallow: 
+User-agent: *
+Disallow: 
+Disallow: /cgi-bin/
+Sitemap: http://aseriousbusiness.com/superjp/sitemap.xml
+Sitemap: http://aseriousbusiness.com/gilajp/sitemap.xml
+Sitemap: http://aseriousbusiness.com/gojekpot/sitemap.xml
+Sitemap: http://aseriousbusiness.com/winstrike69/sitemap.xml
+Sitemap: http://aseriousbusiness.com/slotgacor/sitemap.xml
+Sitemap: http://aseriousbusiness.com/slotzeus/sitemap.xml
+Sitemap: http://aseriousbusiness.com/kaptenjackpot/sitemap.xml
+Sitemap: http://aseriousbusiness.com/boosterjp/sitemap.xml
+Sitemap: http://aseriousbusiness.com/kerajaanslot/sitemap.xml
+Sitemap: http://aseriousbusiness.com/pakong86/sitemap.xml
+Sitemap: http://aseriousbusiness.com/viral88/sitemap.xml
+Sitemap: http://aseriousbusiness.com/clan4d/sitemap.xml
+Sitemap: http://aseriousbusiness.com/dinamit4d/sitemap.xml
+Sitemap: http://aseriousbusiness.com/elang212/sitemap.xml
+Sitemap: http://aseriousbusiness.com/gori77/sitemap.xml
+Sitemap: http://aseriousbusiness.com/viral4d/sitemap.xml
+Sitemap: http://aseriousbusiness.com/playground88/sitemap.xml
